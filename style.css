@@ -19,3 +19,7 @@
 .second-color {
 	color:var(--secondary-color);
 }
+
+.focus:hover {
+	background-color:var(--secondary-color);
+}
