@@ -11433,3 +11433,9 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+.icon {
+	max-width: 110px;
+	padding: 0;
+	margin: 0;
+}
